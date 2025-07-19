@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
 <!-- First Row: Two images side by side -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitepush&" alt="Streak Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=infinitepush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=infinitepush&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Stats" width="48%" height = "200" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitepush&" alt="Streak Stats" width="48%" height = "200"/>
+
 </p>
 
 <!-- Second Row: Centered language graph -->

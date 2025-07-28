@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
 
-<!-- First Row: Two images side by side using table for strict layout -->
 <table align="center">
   <tr>
     <td>
@@ -12,7 +11,6 @@
   </tr>
 </table>
 
-<!-- Second Row: Centered language graph -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitepush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top Languages" />
 </p>

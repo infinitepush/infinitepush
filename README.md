@@ -15,16 +15,6 @@
 - 📫 Reach me at **piyush89101@gmail.com**
 - ☕ Support my work: <a href="https://www.buymeacoffee.com/piyush11"><strong>Buy Me a Coffee</strong></a>
 
----
-
-### 🧑‍💻 Connect with me:
-
-
-<p align="left">
-<a href="https://twitter.com/piyushbro07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushbro07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush-tiwari-3098a4338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-tiwari-3098a4338/" height="30" width="40" /></a>
-<a href="https://discord.gg/piyushtiwari0589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="piyushtiwari0589" height="30" width="40" /></a>
-</p>
 
 ---
 

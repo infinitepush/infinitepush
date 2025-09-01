@@ -40,17 +40,7 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 
 ---
 
-## 📚 Recent Projects
-<details>
-  <summary><b>Click to view my project</b></summary><br>
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions for treatment. I designed and developed both the frontend and backend. | Html, TailwindCSS, Javascript, Node.js, Express, MongoDB | [Frontend Repo](https://github.com/infinitepush/AgroMed-Frontend) • [Backend Repo](https://github.com/infinitepush/crop-disease-backend) |
-
-</details>
-
----
 ## 📦 Mini JavaScript Projects
 
 <details>

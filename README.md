@@ -92,9 +92,9 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 ---
 <p align="center">
   <!-- GitHub Followers -->
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
+ <a href="https://github.com/infinitepush">
+  <img src="https://img.shields.io/github/followers/infinitepush?style=social">
+</a>
   
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/" target="_blank">

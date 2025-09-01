@@ -9,10 +9,11 @@
 
 <p align="center">
   <a href="https://github.com/infinitepush">GitHub</a> •
-  <a href="https://www.linkedin.com/in/piyush-tiwari">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/">LinkedIn</a> •
   <a href="mailto:piyush89101@gmail.com">Email</a> •
   <a href="https://www.buymeacoffee.com/piyush11">Buy Me a Coffee</a>
 </p>
+
 
 ---
 
@@ -95,9 +96,9 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
     <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   
-  <!-- LinkedIn -->
+  <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
   </a>
 </p>
 

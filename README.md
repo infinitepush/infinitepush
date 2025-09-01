@@ -17,7 +17,7 @@
 ---
 
 ## 👨🏻‍💻 About Me
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right">
 
 Hi! I’m **Piyush**, a passionate **Computer Science student** and **full-stack developer** from India 🇮🇳.  
 I love building scalable backend systems and exploring modern web technologies.  

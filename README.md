@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
 <h3 align="center">🚀 Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infinitepush&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+</p>
+
 ---
 
 <p align="center">
@@ -42,7 +46,7 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 
 | Project Name | Description | Tech Stack | Links |
 |--------------|-------------|------------|-------|
-| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions for treatment. I designed and developed both the frontend and backend. | React, TailwindCSS, Node.js, Express, MongoDB | [Frontend Repo](https://github.com/infinitepush/AgroMed-Frontend) • [Backend Repo](https://github.com/infinitepush/crop-disease-backend) |
+| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions for treatment. I designed and developed both the frontend and backend. | Html, TailwindCSS, Javascript, Node.js, Express, MongoDB | [Frontend Repo](https://github.com/infinitepush/AgroMed-Frontend) • [Backend Repo](https://github.com/infinitepush/crop-disease-backend) |
 
 </details>
 
@@ -63,14 +67,22 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinitepush&show_icons=true&hide_border=true&count_private=true&theme=dracula"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=infinitepush&theme=dracula" />
-</p>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitepush&layout=compact&langs_count=6&theme=dracula"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=infinitepush&show_icons=true&hide_border=true&count_private=true&theme=dracula" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=infinitepush&theme=dracula" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitepush&layout=compact&langs_count=6&theme=dracula" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

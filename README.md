@@ -51,7 +51,21 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 </details>
 
 ---
+## 📦 Mini JavaScript Projects
 
+<details>
+  <summary>Click to expand</summary>
+
+  - 🎵 [Music Player](https://github.com/infinitepush/Music-Player) – Simple browser-based music player  
+  - 📝 [Notes App](https://github.com/infinitepush/Notes-App) – Create and manage notes in the browser  
+  - 💬 [Echo Bot](https://github.com/infinitepush/Echo-Bot) – A bot that repeats your input  
+  - 🔢 [Currency Calculator](https://github.com/infinitepush/Currency-Calculator) – Convert between currencies  
+  - 🔖 [Todo List](https://github.com/infinitepush/Todo-List) – Manage your tasks  
+  - 📷 [QR Code Generator](https://github.com/infinitepush/QR-Code-Generator) – Generate QR codes instantly  
+
+</details>
+
+---
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>

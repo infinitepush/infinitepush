@@ -89,11 +89,19 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 </table>
 
 ---
-
 <p align="center">
-<a href="https://github.com/infinitepush"><img src="https://img.shields.io/github/followers/infinitepush?style=social"></a>
-<a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?style=social"></a>
+  <!-- GitHub Followers -->
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"/>
+  </a>
 </p>
+
+
 
 <p align="center">
 Do you want to collaborate with me on exciting projects? ⟶ <a href="mailto:piyush89101@gmail.com">Contact Me</a><br>

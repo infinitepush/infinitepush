@@ -20,7 +20,7 @@
 ## 👨🏻‍💻 About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right">
 
-Hi! I’m **Piyush**, a passionate **Computer Science student** and **full-stack developer** from India 🇮🇳.  
+Hi! I’m **Piyush**, a passionate **Computer Science student** and **backend developer** from India 🇮🇳.  
 I love building scalable backend systems and exploring modern web technologies.  
 Currently, I’m learning **Node.js, Express, and system design concepts** to strengthen my backend expertise.  
 

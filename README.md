@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infinitepush&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p>
-
 ---
 
 <p align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
-<h3 align="center">🚀 Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=infinitepush&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
@@ -96,11 +96,6 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
  <a href="https://github.com/infinitepush">
   <img src="https://img.shields.io/github/followers/infinitepush?style=social">
 </a>
-  
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
-  </a>
 </p>
 
 

@@ -41,7 +41,7 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions. | Frontend: HTML, Tailwind CSS, JavaScript <br> Backend: Node.js, Express.js <br> Database: SQLite <br> Storage: Cloudinary | [Frontend Repo](https://github.com/infinitepush/AGROMED-FRONT-END) <br> [Backend Repo](https://github.com/infinitepush/AgroMed-Backend) |
+| **AgroMed** | A real-time AI based project that helps farmers detect crop diseases and get accurate suggestions. | Frontend: HTML, Tailwind CSS, JavaScript <br> Backend: Node.js, Express.js <br> Database: SQLite <br> Storage: Cloudinary | [Frontend Repo](https://github.com/infinitepush/AGROMED-FRONT-END) <br> [Backend Repo](https://github.com/infinitepush/AgroMed-Backend) |
 
 
 </details>

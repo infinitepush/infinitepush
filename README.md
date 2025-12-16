@@ -41,7 +41,7 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions. | Frontend: HTML, Tailwind CSS, JavaScript <br> Backend: Node.js, Express.js <br> Database: PostgreSQL <br> Storage: Cloudinary | [Frontend Repo](https://github.com/infinitepush/AgroMed-Frontend) <br> [Backend Repo](https://github.com/infinitepush/crop-disease-backend) |
+| **AgroMed** | A real-time project that helps farmers detect crop diseases and get accurate suggestions. | Frontend: HTML, Tailwind CSS, JavaScript <br> Backend: Node.js, Express.js <br> Database: PostgreSQL <br> Storage: Cloudinary | [Frontend Repo](https://github.com/infinitepush/AgroMed-Frontend) <br> [Backend Repo](https://github.com/infinitepush/AgroMed-Backend) |
 | **ArtisanVerse** | AI-powered marketplace assistant that helps local artisans share their stories and sell globally. Features dual dashboards, guided onboarding, and story-driven product pages for an intuitive, scalable experience. | Frontend: Next.js (React + TypeScript), Tailwind CSS, Radix UI <br> Backend/Services: Firebase, Node.js <br> AI/ML: Genkit, Google Gemini <br> Others: Zod, Recharts, Embla Carousel, Date-fns | [Repository](https://github.com/infinitepush/ArtisanVerse) <br> [Live Site](https://artisanverse-db0b.onrender.com/) |
 </details>
 

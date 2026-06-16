@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">🚀Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/infinitepush">GitHub</a> •

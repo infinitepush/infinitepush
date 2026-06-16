@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Backend Enthusiast | Open-Source Contributor</h3>
 
-
 <p align="center">
   <a href="https://github.com/infinitepush">GitHub</a> •
   <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/">LinkedIn</a> •
@@ -9,20 +8,29 @@
   <a href="https://www.buymeacoffee.com/piyush11">Buy Me a Coffee</a>
 </p>
 
+<p align="center">
+  <a href="https://piyush-tiwari-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
 ## 👨🏻‍💻 About Me
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right">
 
-Hi! I’m **Piyush**, a passionate **Computer Science student** and a **web developer** from India 🇮🇳.  
-I love building scalable backend systems and exploring modern web technologies.  
-Currently, I’m learning **Node.js, Express, and system design concepts** to strengthen my backend expertise.  
+Hi! I’m **Piyush**, a passionate **Computer Science student** and a **web developer** from India 🇮🇳.
 
-- 🔭 Working on **scalable backend services & APIs**  
-- 🌱 Exploring **cloud deployment & databases**  
-- 💬 Ask me about **JavaScript, REST APIs, and full-stack development**  
-- ⚡ Fun fact: I enjoy late-night coding with a cup of coffee ☕  
+I love building scalable backend systems and exploring modern web technologies.
+
+Currently, I’m learning **Node.js, Express, and system design concepts** to strengthen my backend expertise.
+
+* 🔭 Working on **scalable backend services & APIs**
+* 🌱 Exploring **cloud deployment & databases**
+* 💬 Ask me about **JavaScript, REST APIs, and full-stack development**
+* 🌐 Portfolio: **https://piyush-tiwari-portfolio.vercel.app/**
+* ⚡ Fun fact: I enjoy late-night coding with a cup of coffee ☕
 
 ---
 

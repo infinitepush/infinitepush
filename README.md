@@ -8,14 +8,6 @@
   <a href="https://www.buymeacoffee.com/piyush11">Buy Me a Coffee</a>
 </p>
 
-<p align="center">
-  <a href="https://piyush-tiwari-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
 ## 👨🏻‍💻 About Me
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right">

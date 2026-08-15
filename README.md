@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/infinitepush">GitHub</a> •
-  <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/">LinkedIn</a> •
+  <!-- <a href="https://www.linkedin.com/in/piyush-tiwari-3098a4338/">LinkedIn</a> • -->
   <a href="mailto:piyush89101@gmail.com">Email</a> •
   <a href="https://www.buymeacoffee.com/piyush11">Buy Me a Coffee</a>
 </p>

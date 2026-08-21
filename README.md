@@ -21,7 +21,6 @@ Currently, I’m learning **Node.js, Express, and system design concepts** to st
 * 🔭 Working on **scalable backend services & APIs**
 * 🌱 Exploring **cloud deployment & databases**
 * 💬 Ask me about **JavaScript, REST APIs, and full-stack development**
-* 🌐 Portfolio: **https://piyush-tiwari-portfolio.vercel.app/**
 * ⚡ Fun fact: I enjoy late-night coding with a cup of coffee ☕
 
 ---
